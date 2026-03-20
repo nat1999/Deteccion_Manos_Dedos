@@ -11,8 +11,7 @@ A partir de los *landmarks* de la mano (21 puntos clave), se analiza la posició
 
 ✨ Este sistema puede integrarse con robótica (por ejemplo, ROS) para controlar dispositivos mediante gestos de la mano.
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54ffccfe-7dff-40dd-b8ec-c37ab5c5e13f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/847667c8-f4ca-48d7-bba0-53d17f5979d5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/54ffccfe-7dff-40dd-b8ec-c37ab5c5e13f" height="250"/>
+  <img src="https://github.com/user-attachments/assets/847667c8-f4ca-48d7-bba0-53d17f5979d5" height="250"/>
 </p>
