@@ -10,3 +10,6 @@ A partir de los *landmarks* de la mano (21 puntos clave), se analiza la posició
 - Interacción humano-computador  
 
 ✨ Este sistema puede integrarse con robótica (por ejemplo, ROS) para controlar dispositivos mediante gestos de la mano.
+
+
+<img width="518" height="391" alt="image" src="https://github.com/user-attachments/assets/54ffccfe-7dff-40dd-b8ec-c37ab5c5e13f" />
