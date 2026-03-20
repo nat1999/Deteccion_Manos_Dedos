@@ -1,15 +1,12 @@
-🖐️ Detección de Manos y Dedos con MediaPipe
+# 🖐️ Detección de Manos y Dedos con MediaPipe
 
-Este proyecto utiliza MediaPipe y OpenCV en Python para realizar la detección de manos en tiempo real y determinar qué dedos están levantados.
+Este proyecto implementa la detección de manos en tiempo real utilizando **MediaPipe** y **OpenCV** en Python.
 
-A partir de los landmarks de la mano (21 puntos clave), se analiza la posición de cada dedo para identificar su estado (levantado o bajado) y calcular el número total de dedos visibles.
+A partir de los *landmarks* de la mano (21 puntos clave), se analiza la posición de cada dedo para determinar cuáles están levantados y calcular el número total de dedos visibles.
 
-Este tipo de sistema es útil en aplicaciones como:
+## 🚀 Aplicaciones
+- Control por gestos  
+- Visión artificial  
+- Interacción humano-computador  
 
-Control por gestos
-
-Visión artificial
-
-Interacción humano-computador
-
-🚀 Puede integrarse fácilmente con sistemas robóticos para control mediante gestos
+✨ Este sistema puede integrarse con robótica (por ejemplo, ROS) para controlar dispositivos mediante gestos de la mano.
