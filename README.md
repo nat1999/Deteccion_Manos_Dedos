@@ -13,3 +13,4 @@ A partir de los *landmarks* de la mano (21 puntos clave), se analiza la posició
 
 
 <img width="518" height="391" alt="image" src="https://github.com/user-attachments/assets/54ffccfe-7dff-40dd-b8ec-c37ab5c5e13f" />
+<img width="554" height="362" alt="image" src="https://github.com/user-attachments/assets/847667c8-f4ca-48d7-bba0-53d17f5979d5" />
